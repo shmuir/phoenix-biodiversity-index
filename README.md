@@ -1,4 +1,4 @@
-# Change in Biodiversity Intactness Index in Phoenix, AZ 2017-2020
+# Change in Biodiversity Intactness Index <br> in Phoenix, AZ 2017-2020
 
 A project for EDS220: Working with Environmental Datasets for the Masters of Environmental Data Science Program at UCSB. 
 
