@@ -21,10 +21,11 @@ Data was obtained from:
 
 ## File Structure
 
-      phoeinx-biodiversity-index  
+      phoenix-biodiversity-index  
        │   README.md  
        │   phoenix_biodiversity.ipynb      
        │
        └───tl_2022_04_cousub
-            │   wc_regions_clean.shp   #census shapfiles
+            │   tl_2022_04_cousub.shp   #census shapfiles
+            
 
