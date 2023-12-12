@@ -10,7 +10,7 @@ Steps of analysis:
 2. Mapping the geographical context of the study area
 3. Finding the percent area that had a BII of 0.75 or higher for 2017 and 2020
 4. Finding the difference in high BII areas from 2017 to 2020
-5. Plot the BII for 2020, showing the high BII areas that were lost since 2017
+5. Plotting the BII for 2020, showing the high BII areas that were lost since 2017
 
 ## Citations
 Data was obtained from:
